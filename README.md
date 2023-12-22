@@ -17,7 +17,7 @@ do ESP32 para o servidor. A conexão, até o momento final do projeto, é estát
 
 <strong>Diagrama do Projeto</strong>
 <p align="center">
-  <img src="https://github.com/CodeByBreno/LocalizaBus-Eletronica/assets/132024181/1e6e70cd-a3fa-4c3f-b3a0-8f34d813d1a5" width="400" alt="diagramaProjeto">
+  <img src="https://github.com/CodeByBreno/LocalizaBus-Eletronica/assets/132024181/08a3250f-4756-4980-ab8f-f4b6e3f13392" width="400" alt="diagramaProjeto">
 </p>
 
 # ⚙️ Como Executar o Projeto?
